@@ -628,6 +628,7 @@ _Python implementation of data structures, algorithms and design patterns. Also 
   - [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Fast and pure-Python implementation of sorted collections.
   - [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
   - [thealgorithms](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
+  - [fast-collections](https://github.com/fast-collections/fast-collections) - Blazing-fast data structures written in Rust for Python.
 - Design Patterns
   - [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns and idioms in Python.
   - [python-statemachine](https://github.com/fgmacedo/python-statemachine) - Expressive statecharts and finite state machines with a declarative API, in sync and async codebases.
